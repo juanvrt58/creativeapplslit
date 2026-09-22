@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 FotoSwipe
 
 Ordena tu galería, una foto o video a la vez.
