@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Política de privacidad de FotoSwipe — BORRADOR
+# Política de privacidad de FotoSwipe
 
 **Responsable:** Juan Vial
 **Contacto:** juanvrt58@gmail.com
