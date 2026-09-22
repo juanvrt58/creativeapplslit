@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Política de privacidad de FotoSwipe — BORRADOR
 
 **Responsable:** Juan Vial
