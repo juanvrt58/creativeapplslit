@@ -18,5 +18,5 @@ La opción «Sin anuncios» es una compra única procesada por Google Play. Foto
 
 Puedes retirar el permiso de fotos y videos desde Ajustes de Android. Puedes borrar las decisiones locales borrando los datos de la app o desinstalándola. Este borrado no afecta a los registros de compra que conserva Google Play; revisa las opciones de privacidad de Google para administrar la información que Google recopila mediante anuncios y pagos.
 
-Esta política puede actualizarse cuando cambien las funciones de FotoSwipe o los proveedores utilizados. Para consultas sobre tus datos, escribe a [CORREO ELECTRÓNICO DE SOPORTE].
+Esta política puede actualizarse cuando cambien las funciones de FotoSwipe o los proveedores utilizados. Para consultas sobre tus datos, escribe a juanvrt58@gmail.com.
 
